@@ -14,6 +14,10 @@
 # Output files from R CMD check
 /*.Rcheck/
 
+.zip
+*.zip
+/*.zip
+
 # RStudio files
 .Rproj.user/
 
