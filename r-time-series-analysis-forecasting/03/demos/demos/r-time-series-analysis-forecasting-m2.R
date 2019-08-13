@@ -97,3 +97,4 @@ plot(diff(test))
 test = ts(c(rnorm(100,2,1), rnorm(100,50,1), rnorm(100,80,1)), start = 1)
 plot(test)
 plot(diff(test))
+
