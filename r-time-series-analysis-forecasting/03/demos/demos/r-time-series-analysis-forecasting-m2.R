@@ -2,6 +2,8 @@
 
 head(lynx)
 
+tail(lynx)
+
 # extracting time stamps
 time(lynx)
 
